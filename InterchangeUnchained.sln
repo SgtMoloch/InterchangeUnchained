@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Paths.user = Paths.user
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterchangeUnchained", "InterchangeUnchained.csproj", "{59BB5A3F-C26B-4E2D-A657-94C562449365}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterchangeUnchained", "InterchangeUnchained/InterchangeUnchained.csproj", "{59BB5A3F-C26B-4E2D-A657-94C562449365}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

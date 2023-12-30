@@ -1,6 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
     <GameAssembly Include="Assembly-CSharp" />
+    <GameAssembly Include="UnityEngine.CoreModule" />
+    <GameAssembly Include="0Harmony" />
     <GameAssembly Include="Railloader.Interchange" />
     <GameAssembly Include="Serilog" />
   </ItemGroup>
