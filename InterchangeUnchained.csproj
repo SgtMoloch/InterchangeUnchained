@@ -1,7 +1,0 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-  <ItemGroup>
-    <GameAssembly Include="Assembly-CSharp" />
-    <GameAssembly Include="Railloader.Interchange" />
-    <GameAssembly Include="Serilog" />
-  </ItemGroup>
-</Project>
