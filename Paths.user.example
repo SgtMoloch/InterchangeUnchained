@@ -1,0 +1,6 @@
+﻿<Project>
+  <PropertyGroup>
+    <!-- Directory that the game (Railroader.exe) is in -->
+    <GameDir></GameDir>
+  </PropertyGroup>
+</Project>
