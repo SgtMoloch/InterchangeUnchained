@@ -1,0 +1,12 @@
+﻿<Project>
+  <PropertyGroup>
+    <!-- Directory that the game (Railroader.exe) is in -->
+    <GameDir>E:\SteamLibrary\steamapps\common\Railroader</GameDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <GameAssembly Include="Assembly-CSharp" />
+    <GameAssembly Include="UnityEngine.CoreModule" />
+    <GameAssembly Include="0Harmony" />
+    <GameAssembly Include="Railloader.Interchange" />
+  </ItemGroup>
+</Project>
