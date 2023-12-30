@@ -2,5 +2,6 @@
   "manifestVersion": 1,
   "id": "Moloch.InterchangeUnchained",
   "name": "InterchangeUnchained Mod",
-  "assemblies": [ "InterchangeUnchained" ]
+  "assemblies": [ "InterchangeUnchained" ],
+  "version": "1.0.0"
 }
