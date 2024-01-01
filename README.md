@@ -13,7 +13,7 @@ Follow the instalation steps in the above Link.
 3. Run the game and enjoy all of you interchange tracks being used.
 
 ## Notes
-1. This mod currently supports Railroader verison 2023.3.1. This mod may break in future updates. I will do my best to continue to update this mod.
+1. This mod currently supports Railroader verison 2023.3.2a. This mod may break in future updates. I will do my best to continue to update this mod.
 2. It is possible that the developers of Railroader will implement their own fix for this issue. At such time this mod will be deprecated and no longer maintained.
 3. As the saying goes, use mods at your own risk.
 
@@ -25,7 +25,7 @@ Follow the instalation steps in the above Link.
 Yes, only if the Host has the mod. Initial tests indicate that other players do not need the mod, even if they increment time to service the interchange. If the host does not have the mod, then it will not work.
 
 ### What version of Railroader does this mod work with?
-2023.3.1
+2023.3.2a
 
 
 
