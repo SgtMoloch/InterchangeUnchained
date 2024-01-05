@@ -29,7 +29,7 @@ namespace InterchangeUnchained
             var logger = Log.ForContext(typeof(IndustryContext_AddOrderedCars_Patch));
             var codes = new List<CodeInstruction>(instructions);
 
-            for(int i = 0; i < codes.Count; i++)
+            for(int i = 0; i < codes.Count - 5; i++)
             {
                 if(//prefab
                     codes[i].opcode == OpCodes.Stloc_S && codes[i].operand is LocalBuilder lb1 && validPrefabStores[0] == lb1.LocalIndex
