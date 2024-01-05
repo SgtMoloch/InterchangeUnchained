@@ -8,9 +8,10 @@ Follow the instalation steps in the above Link.
 
 
 ## Usage
-1. Download UseAllTheInterchangeTracksMod.zip from the Releases Page.
-2. Extract the zip folder into the Mods folder in your Railroder install directory. If you do no have this, you need to follow the instalation steps for Railloader.
-3. Run the game and enjoy all of you interchange tracks being used.
+1. Download InterchangeUnchanined.zip from the Releases Page.
+2. Ensure you have a Mods folder in your Railroader install directory. If you do no have this, you need to follow the instalation steps for Railloader.
+3. Extract the zip folder into your Railroader install directory, this should place a folder: InterchangeUnchained into the Mods folder.
+4. Run the game and enjoy all of you interchange tracks being used.
 
 ## Notes
 1. This mod currently supports Railroader verison 2023.3.2a. This mod may break in future updates. I will do my best to continue to update this mod.
