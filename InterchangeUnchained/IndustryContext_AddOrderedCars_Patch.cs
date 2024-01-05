@@ -29,7 +29,6 @@ namespace InterchangeUnchained
             var logger = Log.ForContext(typeof(IndustryContext_AddOrderedCars_Patch));
             var codes = new List<CodeInstruction>(instructions);
 
-
             for(int i = 0; i < codes.Count; i++)
             {
                 if(//prefab
