@@ -8,8 +8,8 @@ Follow the instalation steps in the above Link.
 
 
 ## Usage
-1. Download InterchangeUnchained zip from the Releases Page.
-2. Extract the zip folder into the your Railroder install directory.
+1. Download the InterchangeUnchained zip from the Releases Page.
+2. Extract the zip folder into your Railroader install directory, this should place a folder: InterchangeUnchained into the Mods folder.
 3. Run the game and enjoy all of you interchange tracks being used.
 
 ## Notes
