@@ -7,8 +7,9 @@
   <!-- Replace the default version if something was set for it -->
   <PropertyGroup Condition="'$(AssemblyVersion)' == '' OR '$(MajorVersion)' != '' OR '$(MinorVersion)' != ''">
     <MajorVersion Condition="'$(MajorVersion)' == ''">1</MajorVersion>
-    <MinorVersion Condition="'$(MinorVersion)' == ''">0</MinorVersion>
-    <AssemblyVersion>$(MajorVersion).$(MinorVersion).$([System.DateTime]::UtcNow.ToString(yy))$([System.DateTime]::UtcNow.DayOfYear.ToString("000")).$([System.DateTime]::UtcNow.ToString("Hmm"))</AssemblyVersion>
+    <MinorVersion Condition="'$(MinorVersion)' == ''">2</MinorVersion>
+    <PatchVersion Condition="'$(PatchVersion)' == ''">2</PatchVersion>
+    <AssemblyVersion>$(MajorVersion).$(MinorVersion).$(PatchVersion)</AssemblyVersion>
     <FileVersion>$(AssemblyVersion)</FileVersion>
     <ProductVersion>$(AssemblyVersion)</ProductVersion>
   </PropertyGroup>
